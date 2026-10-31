@@ -1035,3 +1035,9 @@ This project is licensed under the MIT License.
 Built with ❤️ by the **Smart Interview Scheduler Team**.
 
 > **Making interview scheduling smarter, faster, and conflict-free. 🚀📅✨**
+
+---
+
+## 👤 Project Owner
+
+**Chinni Kavya Sri**
